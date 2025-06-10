@@ -3,7 +3,7 @@
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
 ## Overview
-This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+The purpose of this project is to conduct a thorough examination of Netflix's catalog of movies and TV shows through SQL queries. The analysis is designed to explore patterns, trends, and business-relevant insights. This README serves as a complete guide covering the project scope, research questions, methodology, insights generated, and final interpretations.
 
 ## Objectives
 
