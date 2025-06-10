@@ -47,7 +47,7 @@ CREATE TABLE netflix
 
 ### 2. Find the Most Common Rating for Movies and TV Shows
 
-**Objective:** Identify the most frequently occurring rating for each type of content.
+***Objective:*** Identify the most frequently occurring rating for each type of content.
 
 ### 3. List All Movies Released in a Specific Year (e.g., 2020)
 
