@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+[![HR Dashboard Report](images/report-preview.png)](HR_Analytics_Dashboard.pdf)
 
 ## Overview
 The purpose of this project is to conduct a thorough examination of Netflix's catalog of movies and TV shows through SQL queries. The analysis is designed to explore patterns, trends, and business-relevant insights. This README serves as a complete guide covering the project scope, research questions, methodology, insights generated, and final interpretations.
